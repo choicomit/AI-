@@ -1,0 +1,6 @@
+{
+  "name": "AI 활용한 스마트오피스 실무",
+  "description": "AI 활용한 스마트오피스 실무 강사 전용 관리 콘솔 및 실시간 수강생 복습 워크스페이스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
